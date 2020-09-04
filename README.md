@@ -1,2 +1,2 @@
 # bettingklubben-data-collector
-Testar ltie
+Testar lite igen
